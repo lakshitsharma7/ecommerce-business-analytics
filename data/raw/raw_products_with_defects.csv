@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price,reorder_level
+PRD-0001,"OptimaPrint Pens, Inks & Marker Model-242",Office Supplies,"Pens, Inks & Markers",OptimaPrint,5.51,9.0,35
+PRD-0002,  ErgoComfort Standing Desk Model-716  ,Furniture,Standing Desks,ErgoComfort,63.03,91.41,100
+PRD-0003,ZenithLogix Monitors & Display Model-877,Technology,Monitors & Displays,ZenithLogix,574.18,807.39,20
+PRD-0004,AccuBinder Desk Accessorie Model-967,Office Supplies,Desk Accessories,AccuBinder,8.64,13.71,50
+PRD-0005,ZenithLogix Smartphones & Accessorie Model-733,Technology,Smartphones & Accessories,ZenithLogix,107.1,148.59,150
+PRD-0006,"EverWrite Pens, Inks & Marker Model-987",Office Supplies,"Pens, Inks & Markers",EverWrite,35.81,64.34,35
+PRD-0007,NordicCraft Office Chair Model-763,Furniture,Office Chairs,NordicCraft,171.75,254.43,150
+PRD-0008,ModuDesk Bookcases & Storage Model-670,Furniture,Bookcases & Storage,ModuDesk,208.32,323.49,150
+PRD-0009,UrbanShield Corporate Apparel Model-316,Apparel & Gear,Corporate Apparel,UrbanShield,115.63,186.43,20
+PRD-0010,ModuDesk Bookcases & Storage Model-371,Furniture,Bookcases & Storage,ModuDesk,580.23,863.3,35
+PRD-0011,Kinetix Standing Desk Model-621,Furniture,Standing Desks,Kinetix,286.64,415.76,35
+PRD-0012,Hyperion Audio & Headphone Model-710,Technology,Audio & Headphones,Hyperion,421.28,583.31,75
+PRD-0013,Hyperion Laptops & Desktop Model-868,Technology,Laptops & Desktops,Hyperion,694.46,990.85,100
+PRD-0014,ErgoComfort Bookcases & Storage Model-612,Furniture,Bookcases & Storage,ErgoComfort,622.06,958.87,50
+PRD-0015,ApexGear Corporate Apparel Model-652,Apparel & Gear,Corporate Apparel,ApexGear,91.12,141.71,35
+PRD-0016,ErgoComfort Bookcases & Storage Model-345,Furniture,Bookcases & Storage,ErgoComfort,112.68,160.4,50
+PRD-0017,ErgoComfort Bookcases & Storage Model-231,Furniture,Bookcases & Storage,ErgoComfort,636.68,931.16,35
+PRD-0018,EcoPaper Paper & Stationery Model-806,Office Supplies,Paper & Stationery,EcoPaper,43.56,75.52,150
+PRD-0019,  Kinetix Bookcases & Storage Model-446  ,Furniture,Bookcases & Storage,Kinetix,318.15,-444.46,20
+PRD-0020,OptimaPrint Storage & Organization Model-172,Office Supplies,Storage & Organization,OptimaPrint,13.77,22.42,50
+PRD-0021,SafeKeep Storage & Organization Model-926,Office Supplies,Storage & Organization,SafeKeep,27.84,41.09,75
+PRD-0022,ModuDesk Standing Desk Model-761,Furniture,Standing Desks,ModuDesk,567.62,801.74,150
+PRD-0023,Novacore Monitors & Display Model-287,Technology,Monitors & Displays,Novacore,209.04,276.6,75
+PRD-0024,  ApexGear Corporate Apparel Model-956  ,Apparel & Gear,Corporate Apparel,ApexGear,27.24,45.49,100
+PRD-0025,ModuDesk Standing Desk Model-268,Furniture,Standing Desks,ModuDesk,336.22,537.57,20
+PRD-0026,NordicCraft Bookcases & Storage Model-777,Furniture,Bookcases & Storage,NordicCraft,300.92,469.49,100
+PRD-0027,SafeKeep Paper & Stationery Model-698,Office Supplies,Paper & Stationery,SafeKeep,6.97,11.1,20
+PRD-0028,ErgoComfort Conference Table Model-791,Furniture,Conference Tables,ErgoComfort,560.06,832.11,20
+PRD-0029,SafeKeep Paper & Stationery Model-697,Office Supplies,Paper & Stationery,SafeKeep,6.11,9.4,150
+PRD-0030,SteelForm Office Chair Model-407,Furniture,Office Chairs,SteelForm,205.7,-298.29,150
+PRD-0031,SafeKeep Paper & Stationery Model-618,Office Supplies,Paper & Stationery,SafeKeep,44.84,68.91,35
+PRD-0032,NordicCraft Office Chair Model-409,Furniture,Office Chairs,NordicCraft,140.44,-226.36,150
+PRD-0033,ApexGear Corporate Apparel Model-370,Apparel & Gear,Corporate Apparel,ApexGear,52.42,87.68,35
+PRD-0034,EverWrite Paper & Stationery Model-973,Office Supplies,Paper & Stationery,EverWrite,33.56,52.58,150
+PRD-0035,Hyperion Smartphones & Accessorie Model-441,Technology,Smartphones & Accessories,Hyperion,422.57,584.68,20
+PRD-0036,ModuDesk Conference Table Model-252,Furniture,Conference Tables,ModuDesk,384.35,574.88,150
+PRD-0037,ApexTech Audio & Headphone Model-466,Technology,Audio & Headphones,ApexTech,317.06,499.93,20
+PRD-0038,TrekLine Backpacks & Laptop Bag Model-985,Apparel & Gear,Backpacks & Laptop Bags,TrekLine,136.73,220.46,35
+PRD-0039,Hyperion Audio & Headphone Model-921,Technology,Audio & Headphones,Hyperion,880.91,1365.37,75
+PRD-0040,OptimaPrint Storage & Organization Model-327,Office Supplies,Storage & Organization,OptimaPrint,19.99,28.56,75
+PRD-0041,VanguardPro Corporate Apparel Model-436,Apparel & Gear,Corporate Apparel,VanguardPro,42.87,71.67,75
+PRD-0042,ModuDesk Conference Table Model-128,Furniture,Conference Tables,ModuDesk,456.11,758.99,50
+PRD-0043,ApexTech Printers & Networking Model-905,Technology,Printers & Networking,ApexTech,134.19,174.44,150
+PRD-0044,EverWrite Paper & Stationery Model-632,Office Supplies,Paper & Stationery,EverWrite,14.82,24.94,20
+PRD-0045,"EverWrite Pens, Inks & Marker Model-438",Office Supplies,"Pens, Inks & Markers",EverWrite,19.25,30.53,150
+PRD-0046,NordicCraft Conference Table Model-402,Furniture,Conference Tables,NordicCraft,448.47,692.9,150
+PRD-0047,  EverWrite Storage & Organization Model-953  ,Office Supplies,Storage & Organization,EverWrite,29.43,43.83,100
+PRD-0048,"AccuBinder Pens, Inks & Marker Model-623",Office Supplies,"Pens, Inks & Markers",AccuBinder,23.33,39.0,35
+PRD-0049,QuantumByte Smartphones & Accessorie Model-195,Technology,Smartphones & Accessories,QuantumByte,506.64,742.52,50
+PRD-0050,Novacore Monitors & Display Model-725,Technology,Monitors & Displays,Novacore,57.35,73.2,75
+PRD-0051,Hyperion Monitors & Display Model-251,technology,Monitors & Displays,Hyperion,672.16,896.46,35
+PRD-0052,ZenithLogix Smartphones & Accessorie Model-630,Technology,Smartphones & Accessories,ZenithLogix,235.24,354.02,150
+PRD-0053,ZenithLogix Audio & Headphone Model-424,Technology,Audio & Headphones,ZenithLogix,645.83,1031.53,100
+PRD-0054,ModuDesk Conference Table Model-861,Furniture,Conference Tables,ModuDesk,547.49,873.8,35
+PRD-0055,AeroSonic Printers & Networking Model-179,Technology,Printers & Networking,AeroSonic,478.41,600.42,75
+PRD-0056,Novacore Smartphones & Accessorie Model-823,Technology,Smartphones & Accessories,Novacore,173.01,243.62,35
+PRD-0057,  Novacore Laptops & Desktop Model-812  ,Technology,Laptops & Desktops,Novacore,797.1,1083.72,100
+PRD-0058,NordicCraft Office Chair Model-651,Furniture,Office Chairs,NordicCraft,500.85,809.52,75
+PRD-0059,QuantumByte Monitors & Display Model-784,Technology,Monitors & Displays,QuantumByte,433.79,532.12,50
+PRD-0060,AeroSonic Audio & Headphone Model-677,Technology,Audio & Headphones,AeroSonic,523.72,826.74,100
+PRD-0061,ApexTech Audio & Headphone Model-434,Technology,Audio & Headphones,ApexTech,273.04,394.62,75
+PRD-0062,NordicCraft Standing Desk Model-652,Furniture,Standing Desks,NordicCraft,550.12,829.67,150
+PRD-0063,"  OptimaPrint Pens, Inks & Marker Model-959  ",Office Supplies,"Pens, Inks & Markers",OptimaPrint,35.05,62.68,35
+PRD-0064,EverWrite Paper & Stationery Model-271,Office Supplies,Paper & Stationery,EverWrite,23.33,36.84,50
+PRD-0065,QuantumByte Audio & Headphone Model-689,Technology,Audio & Headphones,QuantumByte,133.91,184.25,50
+PRD-0066,AeroSonic Smartphones & Accessorie Model-813,Technology,Smartphones & Accessories,AeroSonic,666.91,976.53,20
+PRD-0067,OptimaPrint Paper & Stationery Model-170,Office Supplies,Paper & Stationery,OptimaPrint,18.56,30.04,50
+PRD-0068,ZenithLogix Smartphones & Accessorie Model-824,Technology,Smartphones & Accessories,ZenithLogix,914.12,1340.27,75
+PRD-0069,SafeKeep Paper & Stationery Model-706,Office Supplies,Paper & Stationery,SafeKeep,35.87,58.36,150
+PRD-0070,TrekLine Backpacks & Laptop Bag Model-784,apparel & gear,Backpacks & Laptop Bags,TrekLine,45.48,70.35,100
+PRD-0071,QuantumByte Monitors & Display Model-818,Technology,Monitors & Displays,QuantumByte,765.02,993.21,100
+PRD-0072,Hyperion Monitors & Display Model-807,Technology,Monitors & Displays,Hyperion,406.88,548.35,35
+PRD-0073,Novacore Printers & Networking Model-695,Technology,Printers & Networking,Novacore,405.03,508.7,150
+PRD-0074,NordicCraft Conference Table Model-357,Furniture,Conference Tables,NordicCraft,257.85,405.95,50
+PRD-0075,EverWrite Desk Accessorie Model-841,Office Supplies,Desk Accessories,EverWrite,12.26,20.47,50
+PRD-0076,VanguardPro Corporate Apparel Model-114,Apparel & Gear,Corporate Apparel,VanguardPro,52.03,83.4,50
+PRD-0077,Hyperion Printers & Networking Model-205,Technology,Printers & Networking,Hyperion,898.84,1210.48,75
+PRD-0078,ApexTech Audio & Headphone Model-941,Technology,Audio & Headphones,ApexTech,266.02,417.17,20
+PRD-0079,Novacore Audio & Headphone Model-354,Technology,Audio & Headphones,Novacore,777.19,1234.41,20
+PRD-0080,AeroSonic Monitors & Display Model-980,Technology,Monitors & Displays,AeroSonic,383.05,547.36,50
+PRD-0081,OptimaPrint Storage & Organization Model-370,Office Supplies,Storage & Organization,OptimaPrint,42.88,62.94,35
+PRD-0082,ZenithLogix Laptops & Desktop Model-133,Technology,Laptops & Desktops,ZenithLogix,447.21,629.04,50
+PRD-0083,"EverWrite Pens, Inks & Marker Model-703",Office Supplies,"Pens, Inks & Markers",EverWrite,41.92,73.41,150
+PRD-0084,"EverWrite Pens, Inks & Marker Model-161",Office Supplies,"Pens, Inks & Markers",EverWrite,41.29,72.68,20
+PRD-0085,ZenithLogix Printers & Networking Model-512,Technology,Printers & Networking,ZenithLogix,148.78,202.1,150
+PRD-0086,ZenithLogix Laptops & Desktop Model-193,Technology,Laptops & Desktops,ZenithLogix,707.1,996.2,20
+PRD-0087,Hyperion Laptops & Desktop Model-581,Technology,Laptops & Desktops,Hyperion,786.6,1103.24,35
+PRD-0088,ModuDesk Standing Desk Model-441,Furniture,Standing Desks,ModuDesk,631.28,952.03,75
+PRD-0089,NordicCraft Bookcases & Storage Model-137,Furniture,Bookcases & Storage,NordicCraft,445.86,638.52,100
+PRD-0090,Kinetix Standing Desk Model-573,Furniture,Standing Desks,Kinetix,544.08,761.86,100
+PRD-0091,"EcoPaper Pens, Inks & Marker Model-234",Office Supplies,"Pens, Inks & Markers",EcoPaper,35.28,57.04,100
+PRD-0092,"  SafeKeep Pens, Inks & Marker Model-664  ",Office Supplies,"Pens, Inks & Markers",SafeKeep,36.87,63.9,50
+PRD-0093,ZenithLogix Smartphones & Accessorie Model-610,Technology,Smartphones & Accessories,ZenithLogix,901.56,1324.37,35
+PRD-0094,ModuDesk Bookcases & Storage Model-295,Furniture,Bookcases & Storage,ModuDesk,192.46,282.3,75
+PRD-0095,  ZenithLogix Printers & Networking Model-940  ,Technology,Printers & Networking,ZenithLogix,345.99,477.87,50
+PRD-0096,"EcoPaper Pens, Inks & Marker Model-453",Office Supplies,"Pens, Inks & Markers",EcoPaper,39.54,66.14,75
+PRD-0097,VanguardPro Corporate Apparel Model-339,Apparel & Gear,Corporate Apparel,VanguardPro,137.6,216.71,75
+PRD-0098,TrekLine Backpacks & Laptop Bag Model-255,apparel & gear,Backpacks & Laptop Bags,TrekLine,63.26,100.75,150
+PRD-0099,  UrbanShield Corporate Apparel Model-567  ,Apparel & Gear,Corporate Apparel,UrbanShield,124.27,201.48,100
+PRD-0100,ZenithLogix Smartphones & Accessorie Model-809,Technology,Smartphones & Accessories,ZenithLogix,750.1,1035.85,100
+PRD-0101,ModuDesk Conference Table Model-993,Furniture,Conference Tables,ModuDesk,622.25,1004.41,75
+PRD-0102,Novacore Printers & Networking Model-878,Technology,Printers & Networking,Novacore,718.29,933.64,20
+PRD-0103,UrbanShield Backpacks & Laptop Bag Model-467,Apparel & Gear,Backpacks & Laptop Bags,UrbanShield,20.75,33.68,50
+PRD-0104,EverWrite Desk Accessorie Model-734,Office Supplies,Desk Accessories,EverWrite,11.38,17.28,75
+PRD-0105,"AccuBinder Pens, Inks & Marker Model-394",Office Supplies,"Pens, Inks & Markers",AccuBinder,23.11,39.83,75
+PRD-0106,AccuBinder Paper & Stationery Model-567,Office Supplies,Paper & Stationery,AccuBinder,30.38,49.14,50
+PRD-0107,  ZenithLogix Monitors & Display Model-402  ,Technology,Monitors & Displays,ZenithLogix,558.31,-754.95,150
+PRD-0108,UrbanShield Corporate Apparel Model-894,Apparel & Gear,Corporate Apparel,UrbanShield,128.83,217.9,50
+PRD-0109,AccuBinder Paper & Stationery Model-797,Office Supplies,Paper & Stationery,AccuBinder,31.95,53.86,150
+PRD-0110,ZenithLogix Printers & Networking Model-192,Technology,Printers & Networking,ZenithLogix,65.53,84.14,35
+PRD-0111,SafeKeep Desk Accessorie Model-379,Office Supplies,Desk Accessories,SafeKeep,40.0,63.37,100
+PRD-0112,AccuBinder Desk Accessorie Model-579,Office Supplies,Desk Accessories,AccuBinder,34.74,54.82,20
+PRD-0113,EcoPaper Storage & Organization Model-192,office supplies,Storage & Organization,EcoPaper,43.67,70.09,50
+PRD-0114,"AccuBinder Pens, Inks & Marker Model-210",Office Supplies,"Pens, Inks & Markers",AccuBinder,28.17,49.56,50
+PRD-0115,Kinetix Office Chair Model-817,Furniture,Office Chairs,Kinetix,178.93,256.68,75
+PRD-0116,ZenithLogix Printers & Networking Model-238,Technology,Printers & Networking,ZenithLogix,141.25,177.13,100
+PRD-0117,ModuDesk Conference Table Model-770,Furniture,Conference Tables,ModuDesk,400.34,655.4,75
+PRD-0118,Hyperion Laptops & Desktop Model-975,Technology,Laptops & Desktops,Hyperion,374.03,513.16,35
+PRD-0119,"AccuBinder Pens, Inks & Marker Model-968",Office Supplies,"Pens, Inks & Markers",AccuBinder,6.95,11.35,20
+PRD-0120,ApexTech Laptops & Desktop Model-905,Technology,Laptops & Desktops,ApexTech,754.92,1001.04,35
+PRD-0121,Novacore Monitors & Display Model-102,Technology,Monitors & Displays,Novacore,335.63,420.86,100
+PRD-0122,EverWrite Desk Accessorie Model-115,Office Supplies,Desk Accessories,EverWrite,8.95,15.21,35
+PRD-0123,ApexTech Printers & Networking Model-863,Technology,Printers & Networking,ApexTech,150.98,195.79,20
+PRD-0124,Kinetix Bookcases & Storage Model-902,Furniture,Bookcases & Storage,Kinetix,179.04,265.24,150
+PRD-0125,ApexTech Laptops & Desktop Model-802,Technology,Laptops & Desktops,ApexTech,948.71,1389.75,75
+PRD-0126,Kinetix Office Chair Model-748,Furniture,Office Chairs,Kinetix,134.74,195.24,100
+PRD-0127,ZenithLogix Printers & Networking Model-217,Technology,Printers & Networking,ZenithLogix,497.58,646.33,150
+PRD-0128,ZenithLogix Monitors & Display Model-947,Technology,Monitors & Displays,ZenithLogix,448.17,570.32,50
+PRD-0129,"AccuBinder Pens, Inks & Marker Model-168",Office Supplies,"Pens, Inks & Markers",AccuBinder,19.66,31.56,75
+PRD-0130,SteelForm Office Chair Model-675,Furniture,Office Chairs,SteelForm,381.6,593.34,100
+PRD-0131,EcoPaper Desk Accessorie Model-714,Office Supplies,Desk Accessories,EcoPaper,39.66,66.07,50
+PRD-0132,SteelForm Bookcases & Storage Model-476,Furniture,Bookcases & Storage,SteelForm,557.6,792.09,100
+PRD-0133,Kinetix Conference Table Model-723,Furniture,Conference Tables,Kinetix,416.21,673.35,20
+PRD-0134,AccuBinder Storage & Organization Model-990,Office Supplies,Storage & Organization,AccuBinder,41.82,62.76,35
+PRD-0135,ApexTech Laptops & Desktop Model-564,Technology,Laptops & Desktops,ApexTech,717.69,946.98,75
+PRD-0136,SafeKeep Paper & Stationery Model-872,Office Supplies,Paper & Stationery,SafeKeep,7.94,12.16,35
+PRD-0137,Kinetix Bookcases & Storage Model-216,Furniture,Bookcases & Storage,Kinetix,312.44,438.3,100
+PRD-0138,  NordicCraft Conference Table Model-156  ,Furniture,Conference Tables,NordicCraft,72.48,113.13,100
+PRD-0139,QuantumByte Printers & Networking Model-540,Technology,Printers & Networking,QuantumByte,335.23,402.87,150
+PRD-0140,  AeroWeave Corporate Apparel Model-546  ,Apparel & Gear,Corporate Apparel,AeroWeave,24.01,41.25,20
+PRD-0141,  EcoPaper Paper & Stationery Model-514  ,Office Supplies,Paper & Stationery,EcoPaper,33.23,53.7,20
+PRD-0142,AeroWeave Corporate Apparel Model-546,Apparel & Gear,Corporate Apparel,AeroWeave,26.02,44.6,35
+PRD-0143,SteelForm Office Chair Model-748,Furniture,Office Chairs,SteelForm,246.51,359.58,100
+PRD-0144,EverWrite Storage & Organization Model-277,Office Supplies,Storage & Organization,EverWrite,14.07,20.45,35
+PRD-0145,EcoPaper Desk Accessorie Model-559,Office Supplies,Desk Accessories,EcoPaper,23.29,37.95,100
+PRD-0146,NordicCraft Office Chair Model-746,Furniture,Office Chairs,NordicCraft,136.33,195.73,75
+PRD-0147,ZenithLogix Printers & Networking Model-178,Technology,Printers & Networking,ZenithLogix,448.5,544.07,50
+PRD-0148,ModuDesk Standing Desk Model-142,Furniture,Standing Desks,ModuDesk,396.1,641.47,150
+PRD-0149,Kinetix Bookcases & Storage Model-930,Furniture,Bookcases & Storage,Kinetix,136.27,184.54,20
+PRD-0150,ApexTech Audio & Headphone Model-636,Technology,Audio & Headphones,ApexTech,261.69,384.86,75
+PRD-0151,NordicCraft Standing Desk Model-762,Furniture,Standing Desks,NordicCraft,455.73,643.51,150
+PRD-0152,Hyperion Printers & Networking Model-994,Technology,Printers & Networking,Hyperion,814.18,1157.61,100
+PRD-0153,Hyperion Printers & Networking Model-825,Technology,Printers & Networking,Hyperion,674.11,869.7,100
+PRD-0154,VanguardPro Corporate Apparel Model-801,Apparel & Gear,Corporate Apparel,VanguardPro,98.76,168.94,150
+PRD-0155,QuantumByte Laptops & Desktop Model-884,Technology,Laptops & Desktops,QuantumByte,317.61,472.85,50
+PRD-0156,  UrbanShield Corporate Apparel Model-639  ,Apparel & Gear,Corporate Apparel,UrbanShield,78.46,129.0,150
+PRD-0157,SteelForm Standing Desk Model-928,Furniture,Standing Desks,SteelForm,143.16,227.8,100
+PRD-0158,EverWrite Storage & Organization Model-902,Office Supplies,Storage & Organization,EverWrite,43.77,68.3,150
+PRD-0159,SteelForm Bookcases & Storage Model-572,Furniture,Bookcases & Storage,SteelForm,267.54,416.78,75
+PRD-0160,Novacore Audio & Headphone Model-153,Technology,Audio & Headphones,Novacore,768.15,1076.82,50
+PRD-0161,ApexGear Corporate Apparel Model-379,Apparel & Gear,Corporate Apparel,ApexGear,121.4,192.49,35
+PRD-0162,VanguardPro Backpacks & Laptop Bag Model-524,Apparel & Gear,Backpacks & Laptop Bags,VanguardPro,117.09,192.43,20
+PRD-0163,SteelForm Office Chair Model-765,Furniture,Office Chairs,SteelForm,62.05,101.4,150
+PRD-0164,SteelForm Bookcases & Storage Model-105,furniture,Bookcases & Storage,SteelForm,504.1,729.88,100
+PRD-0165,SafeKeep Storage & Organization Model-343,Office Supplies,Storage & Organization,SafeKeep,25.87,37.4,50
+PRD-0166,  ErgoComfort Bookcases & Storage Model-648  ,Furniture,Bookcases & Storage,ErgoComfort,112.07,173.5,100
+PRD-0167,ErgoComfort Standing Desk Model-291,Furniture,Standing Desks,ErgoComfort,416.96,606.81,75
+PRD-0168,Kinetix Conference Table Model-120,Furniture,Conference Tables,Kinetix,351.93,597.34,100
+PRD-0169,Hyperion Printers & Networking Model-346,Technology,Printers & Networking,Hyperion,49.86,68.87,50
+PRD-0170,SteelForm Office Chair Model-279,Furniture,Office Chairs,SteelForm,71.82,111.0,150
+PRD-0171,Novacore Audio & Headphone Model-137,Technology,Audio & Headphones,Novacore,92.74,143.61,75
+PRD-0172,AeroWeave Backpacks & Laptop Bag Model-584,Apparel & Gear,Backpacks & Laptop Bags,AeroWeave,79.42,132.43,100
+PRD-0173,OptimaPrint Desk Accessorie Model-918,Office Supplies,Desk Accessories,OptimaPrint,39.56,62.36,20
+PRD-0174,NordicCraft Standing Desk Model-476,Furniture,Standing Desks,NordicCraft,634.1,960.11,75
+PRD-0175,ZenithLogix Smartphones & Accessorie Model-400,Technology,Smartphones & Accessories,ZenithLogix,586.24,884.72,100
+PRD-0176,EcoPaper Paper & Stationery Model-143,Office Supplies,Paper & Stationery,EcoPaper,11.25,18.25,75
+PRD-0177,"OptimaPrint Pens, Inks & Marker Model-625",Office Supplies,"Pens, Inks & Markers",OptimaPrint,7.54,12.94,50
+PRD-0178,EcoPaper Paper & Stationery Model-475,Office Supplies,Paper & Stationery,EcoPaper,5.91,9.07,150
+PRD-0179,NordicCraft Bookcases & Storage Model-240,Furniture,Bookcases & Storage,NordicCraft,270.07,409.29,100
+PRD-0180,ApexTech Smartphones & Accessorie Model-675,Technology,Smartphones & Accessories,ApexTech,708.14,1016.03,75
+PRD-0181,AccuBinder Paper & Stationery Model-225,Office Supplies,Paper & Stationery,AccuBinder,32.61,57.06,35
+PRD-0182,Hyperion Smartphones & Accessorie Model-455,Technology,Smartphones & Accessories,Hyperion,920.32,1423.65,150
+PRD-0183,Hyperion Audio & Headphone Model-912,Technology,Audio & Headphones,Hyperion,684.25,1047.62,35
+PRD-0184,ZenithLogix Monitors & Display Model-578,Technology,Monitors & Displays,ZenithLogix,59.05,79.57,50
+PRD-0185,ZenithLogix Printers & Networking Model-520,Technology,Printers & Networking,ZenithLogix,949.63,1296.57,100
+PRD-0186,"OptimaPrint Pens, Inks & Marker Model-231",Office Supplies,"Pens, Inks & Markers",OptimaPrint,22.72,39.22,50
+PRD-0187,ZenithLogix Audio & Headphone Model-630,Technology,Audio & Headphones,ZenithLogix,495.12,777.18,20
+PRD-0188,Kinetix Office Chair Model-301,Furniture,Office Chairs,Kinetix,586.43,946.83,50
+PRD-0189,ErgoComfort Conference Table Model-257,Furniture,Conference Tables,ErgoComfort,349.06,526.66,100
+PRD-0190,ApexGear Backpacks & Laptop Bag Model-146,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,20.15,33.02,20
+PRD-0191,EcoPaper Paper & Stationery Model-658,Office Supplies,Paper & Stationery,EcoPaper,29.53,45.09,150
+PRD-0192,"EcoPaper Pens, Inks & Marker Model-261",Office Supplies,"Pens, Inks & Markers",EcoPaper,16.55,26.26,20
+PRD-0193,NordicCraft Office Chair Model-233,Furniture,Office Chairs,NordicCraft,489.19,791.5,75
+PRD-0194,QuantumByte Smartphones & Accessorie Model-397,Technology,Smartphones & Accessories,QuantumByte,446.38,603.69,20
+PRD-0195,VanguardPro Backpacks & Laptop Bag Model-420,Apparel & Gear,Backpacks & Laptop Bags,VanguardPro,116.68,193.08,150
+PRD-0196,AeroWeave Backpacks & Laptop Bag Model-617,Apparel & Gear,Backpacks & Laptop Bags,AeroWeave,77.17,112.72,75
+PRD-0197,ZenithLogix Printers & Networking Model-581,technology,Printers & Networking,ZenithLogix,581.73,810.85,150
+PRD-0198,Hyperion Printers & Networking Model-510,Technology,Printers & Networking,Hyperion,369.69,477.92,20
+PRD-0199,Kinetix Standing Desk Model-796,Furniture,Standing Desks,Kinetix,317.46,484.59,100
+PRD-0200,Kinetix Office Chair Model-716,Furniture,Office Chairs,Kinetix,613.06,977.0,35
+PRD-0201,ModuDesk Office Chair Model-243,Furniture,Office Chairs,ModuDesk,359.2,522.37,100
+PRD-0202,AccuBinder Storage & Organization Model-645,Office Supplies,Storage & Organization,AccuBinder,28.55,43.87,100
+PRD-0203,ErgoComfort Office Chair Model-993,furniture,Office Chairs,ErgoComfort,637.84,991.36,150
+PRD-0204,SafeKeep Desk Accessorie Model-591,Office Supplies,Desk Accessories,SafeKeep,27.89,46.46,100
+PRD-0205,Hyperion Audio & Headphone Model-212,Technology,Audio & Headphones,Hyperion,256.61,385.35,150
+PRD-0206,ZenithLogix Monitors & Display Model-993,Technology,Monitors & Displays,ZenithLogix,494.16,672.37,75
+PRD-0207,NordicCraft Conference Table Model-421,Furniture,Conference Tables,NordicCraft,648.86,1025.22,75
+PRD-0208,"AccuBinder Pens, Inks & Marker Model-385",Office Supplies,"Pens, Inks & Markers",AccuBinder,29.21,47.15,35
+PRD-0209,Hyperion Printers & Networking Model-591,Technology,Printers & Networking,Hyperion,224.66,306.02,50
+PRD-0210,AeroSonic Smartphones & Accessorie Model-938,Technology,Smartphones & Accessories,AeroSonic,654.11,920.55,75
+PRD-0211,OptimaPrint Storage & Organization Model-865,Office Supplies,Storage & Organization,OptimaPrint,18.53,28.2,50
+PRD-0212,AccuBinder Storage & Organization Model-345,Office Supplies,Storage & Organization,AccuBinder,10.06,15.71,100
+PRD-0213,ApexTech Laptops & Desktop Model-797,technology,Laptops & Desktops,ApexTech,413.17,592.9,20
+PRD-0214,ModuDesk Standing Desk Model-428,Furniture,Standing Desks,ModuDesk,333.86,482.72,50
+PRD-0215,AeroSonic Monitors & Display Model-279,Technology,Monitors & Displays,AeroSonic,710.9,1006.33,20
+PRD-0216,TrekLine Corporate Apparel Model-993,Apparel & Gear,Corporate Apparel,,113.5,177.38,150
+PRD-0217,QuantumByte Smartphones & Accessorie Model-636,Technology,Smartphones & Accessories,QuantumByte,295.37,457.08,100
+PRD-0218,ApexTech Monitors & Display Model-363,technology,Monitors & Displays,ApexTech,337.58,468.61,150
+PRD-0219,"EverWrite Pens, Inks & Marker Model-946",Office Supplies,"Pens, Inks & Markers",EverWrite,11.61,20.51,75
+PRD-0220,ZenithLogix Audio & Headphone Model-492,Technology,Audio & Headphones,ZenithLogix,331.1,472.5,50
+PRD-0221,SafeKeep Storage & Organization Model-341,Office Supplies,Storage & Organization,SafeKeep,4.96,7.79,150
+PRD-0222,NordicCraft Conference Table Model-476,Furniture,Conference Tables,NordicCraft,462.63,748.03,50
+PRD-0223,SafeKeep Storage & Organization Model-875,Office Supplies,Storage & Organization,SafeKeep,19.63,31.04,75
+PRD-0224,SafeKeep Desk Accessorie Model-640,Office Supplies,Desk Accessories,SafeKeep,39.86,60.54,75
+PRD-0225,Kinetix Conference Table Model-435,Furniture,Conference Tables,Kinetix,167.3,266.58,35
+PRD-0226,ErgoComfort Bookcases & Storage Model-564,Furniture,Bookcases & Storage,ErgoComfort,588.83,849.36,20
+PRD-0227,"AccuBinder Pens, Inks & Marker Model-863",Office Supplies,"Pens, Inks & Markers",AccuBinder,33.79,56.13,20
+PRD-0228,ErgoComfort Conference Table Model-132,Furniture,Conference Tables,ErgoComfort,610.42,907.01,75
+PRD-0229,EcoPaper Storage & Organization Model-990,Office Supplies,Storage & Organization,EcoPaper,19.67,31.96,75
+PRD-0230,ApexGear Corporate Apparel Model-282,Apparel & Gear,Corporate Apparel,ApexGear,31.62,54.32,20
+PRD-0231,UrbanShield Corporate Apparel Model-789,Apparel & Gear,Corporate Apparel,UrbanShield,109.52,191.12,75
+PRD-0232,NordicCraft Bookcases & Storage Model-883,Furniture,Bookcases & Storage,NordicCraft,138.85,192.08,150
+PRD-0233,UrbanShield Backpacks & Laptop Bag Model-134,Apparel & Gear,Backpacks & Laptop Bags,UrbanShield,45.08,65.61,100
+PRD-0234,ZenithLogix Laptops & Desktop Model-243,Technology,Laptops & Desktops,ZenithLogix,436.65,608.75,20
+PRD-0235,Kinetix Office Chair Model-342,Furniture,Office Chairs,Kinetix,406.74,640.49,50
+PRD-0236,QuantumByte Printers & Networking Model-279,Technology,Printers & Networking,QuantumByte,90.78,128.74,150
+PRD-0237,"EcoPaper Pens, Inks & Marker Model-518",Office Supplies,"Pens, Inks & Markers",EcoPaper,36.33,59.7,75
+PRD-0238,VanguardPro Corporate Apparel Model-159,Apparel & Gear,Corporate Apparel,VanguardPro,52.59,88.5,75
+PRD-0239,QuantumByte Monitors & Display Model-967,Technology,Monitors & Displays,QuantumByte,221.05,302.56,75
+PRD-0240,Kinetix Standing Desk Model-923,Furniture,Standing Desks,Kinetix,409.77,656.01,35
+PRD-0241,AeroWeave Corporate Apparel Model-294,Apparel & Gear,Corporate Apparel,AeroWeave,52.9,91.47,35
+PRD-0242,Hyperion Monitors & Display Model-665,Technology,Monitors & Displays,Hyperion,588.03,745.06,35
+PRD-0243,QuantumByte Printers & Networking Model-200,Technology,Printers & Networking,QuantumByte,364.07,510.81,75
+PRD-0244,QuantumByte Monitors & Display Model-859,Technology,Monitors & Displays,QuantumByte,321.32,395.39,35
+PRD-0245,NordicCraft Standing Desk Model-683,Furniture,Standing Desks,NordicCraft,137.21,202.5,75
+PRD-0246,ZenithLogix Printers & Networking Model-571,Technology,Printers & Networking,ZenithLogix,919.36,1238.92,75
+PRD-0247,SteelForm Bookcases & Storage Model-160,Furniture,Bookcases & Storage,SteelForm,599.72,878.4,150
+PRD-0248,ApexTech Laptops & Desktop Model-169,technology,Laptops & Desktops,ApexTech,412.34,603.58,35
+PRD-0249,SafeKeep Paper & Stationery Model-106,Office Supplies,Paper & Stationery,,41.47,69.32,20
+PRD-0250,NordicCraft Conference Table Model-540,Furniture,Conference Tables,NordicCraft,55.37,91.75,150
+PRD-0251,Novacore Audio & Headphone Model-373,Technology,Audio & Headphones,Novacore,210.62,314.05,50
+PRD-0252,Hyperion Monitors & Display Model-769,Technology,Monitors & Displays,Hyperion,241.66,332.85,20
+PRD-0253,Kinetix Standing Desk Model-275,Furniture,Standing Desks,Kinetix,332.98,514.94,150
+PRD-0254,UrbanShield Corporate Apparel Model-316,Apparel & Gear,Corporate Apparel,UrbanShield,126.85,219.63,35
+PRD-0255,UrbanShield Backpacks & Laptop Bag Model-677,Apparel & Gear,Backpacks & Laptop Bags,UrbanShield,100.55,151.28,100
+PRD-0256,AeroSonic Monitors & Display Model-178,Technology,Monitors & Displays,AeroSonic,166.94,235.18,75
+PRD-0257,"SafeKeep Pens, Inks & Marker Model-909",Office Supplies,"Pens, Inks & Markers",SafeKeep,17.94,31.28,35
+PRD-0258,ApexTech Laptops & Desktop Model-719,Technology,Laptops & Desktops,ApexTech,434.94,636.27,50
+PRD-0259,Hyperion Laptops & Desktop Model-333,Technology,Laptops & Desktops,Hyperion,285.09,427.15,75
+PRD-0260,"EcoPaper Pens, Inks & Marker Model-830",Office Supplies,"Pens, Inks & Markers",EcoPaper,7.97,13.65,35
+PRD-0261,Hyperion Audio & Headphone Model-105,Technology,Audio & Headphones,Hyperion,391.5,568.83,20
+PRD-0262,Novacore Smartphones & Accessorie Model-517,Technology,Smartphones & Accessories,Novacore,429.35,621.74,100
+PRD-0263,AccuBinder Desk Accessorie Model-497,Office Supplies,Desk Accessories,AccuBinder,39.48,59.33,75
+PRD-0264,AeroSonic Monitors & Display Model-242,Technology,Monitors & Displays,AeroSonic,511.81,705.08,35
+PRD-0265,ZenithLogix Printers & Networking Model-357,Technology,Printers & Networking,ZenithLogix,309.27,426.8,50
+PRD-0266,ErgoComfort Bookcases & Storage Model-440,Furniture,Bookcases & Storage,ErgoComfort,126.97,170.34,75
+PRD-0267,Kinetix Standing Desk Model-305,Furniture,Standing Desks,Kinetix,127.36,187.7,150
+PRD-0268,EcoPaper Storage & Organization Model-485,Office Supplies,Storage & Organization,EcoPaper,43.69,69.9,50
+PRD-0269,AeroSonic Monitors & Display Model-127,Technology,Monitors & Displays,AeroSonic,947.5,1195.16,100
+PRD-0270,Hyperion Printers & Networking Model-789,Technology,Printers & Networking,Hyperion,98.28,137.1,75
+PRD-0271,EcoPaper Storage & Organization Model-590,Office Supplies,Storage & Organization,EcoPaper,36.46,52.39,100
+PRD-0272,Kinetix Standing Desk Model-931,Furniture,Standing Desks,Kinetix,67.24,109.11,150
+PRD-0273,"AccuBinder Pens, Inks & Marker Model-760",Office Supplies,"Pens, Inks & Markers",AccuBinder,11.24,19.23,100
+PRD-0274,ErgoComfort Standing Desk Model-864,Furniture,Standing Desks,ErgoComfort,51.38,74.99,100
+PRD-0275,ModuDesk Standing Desk Model-254,furniture,Standing Desks,ModuDesk,512.27,786.53,100
+PRD-0276,ApexTech Smartphones & Accessorie Model-419,Technology,Smartphones & Accessories,ApexTech,795.66,1183.89,50
+PRD-0277,  ZenithLogix Smartphones & Accessorie Model-407  ,Technology,Smartphones & Accessories,,695.62,990.61,20
+PRD-0278,Hyperion Smartphones & Accessorie Model-349,Technology,Smartphones & Accessories,Hyperion,767.05,1176.56,150
+PRD-0279,SteelForm Bookcases & Storage Model-755,Furniture,Bookcases & Storage,SteelForm,527.64,783.46,35
+PRD-0280,Kinetix Bookcases & Storage Model-310,Furniture,Bookcases & Storage,Kinetix,304.88,408.85,35
+PRD-0281,SafeKeep Desk Accessorie Model-216,Office Supplies,Desk Accessories,SafeKeep,12.07,19.01,75
+PRD-0282,EcoPaper Paper & Stationery Model-460,Office Supplies,Paper & Stationery,EcoPaper,29.26,48.43,50
+PRD-0283,AeroSonic Printers & Networking Model-220,Technology,Printers & Networking,AeroSonic,575.0,778.89,50
+PRD-0284,ModuDesk Standing Desk Model-290,Furniture,Standing Desks,ModuDesk,405.84,621.83,75
+PRD-0285,AeroSonic Audio & Headphone Model-422,Technology,Audio & Headphones,AeroSonic,187.68,269.59,35
+PRD-0286,SteelForm Bookcases & Storage Model-617,Furniture,Bookcases & Storage,SteelForm,163.05,232.89,100
+PRD-0287,  ModuDesk Bookcases & Storage Model-399  ,Furniture,Bookcases & Storage,ModuDesk,146.19,214.91,35
+PRD-0288,EcoPaper Paper & Stationery Model-374,Office Supplies,Paper & Stationery,EcoPaper,26.76,41.37,20
+PRD-0289,Hyperion Laptops & Desktop Model-204,Technology,Laptops & Desktops,Hyperion,438.85,579.4,75
+PRD-0290,ZenithLogix Laptops & Desktop Model-549,Technology,Laptops & Desktops,ZenithLogix,275.48,404.49,20
+PRD-0291,SafeKeep Storage & Organization Model-747,Office Supplies,Storage & Organization,SafeKeep,32.41,52.44,100
+PRD-0292,OptimaPrint Desk Accessorie Model-651,Office Supplies,Desk Accessories,OptimaPrint,27.59,44.76,100
+PRD-0293,ApexGear Corporate Apparel Model-238,Apparel & Gear,Corporate Apparel,ApexGear,138.19,231.64,20
+PRD-0294,VanguardPro Corporate Apparel Model-828,Apparel & Gear,Corporate Apparel,VanguardPro,102.68,159.21,35
+PRD-0295,AeroSonic Audio & Headphone Model-562,Technology,Audio & Headphones,AeroSonic,613.65,929.31,75
+PRD-0296,AccuBinder Storage & Organization Model-599,office supplies,Storage & Organization,AccuBinder,32.64,52.93,75
+PRD-0297,EcoPaper Storage & Organization Model-914,Office Supplies,Storage & Organization,EcoPaper,30.21,47.74,20
+PRD-0298,QuantumByte Printers & Networking Model-233,Technology,Printers & Networking,QuantumByte,792.93,1013.11,100
+PRD-0299,ApexTech Laptops & Desktop Model-116,Technology,Laptops & Desktops,ApexTech,126.11,-182.9,75
+PRD-0300,SteelForm Standing Desk Model-409,Furniture,Standing Desks,SteelForm,647.39,1041.76,150
+PRD-0301,ApexTech Printers & Networking Model-153,Technology,Printers & Networking,ApexTech,375.24,528.29,35
+PRD-0302,"OptimaPrint Pens, Inks & Marker Model-179",Office Supplies,"Pens, Inks & Markers",OptimaPrint,33.0,-51.82,75
+PRD-0303,AccuBinder Storage & Organization Model-810,Office Supplies,Storage & Organization,AccuBinder,37.59,61.92,75
+PRD-0304,ApexTech Smartphones & Accessorie Model-491,Technology,Smartphones & Accessories,ApexTech,321.72,489.86,35
+PRD-0305,ApexTech Audio & Headphone Model-268,Technology,Audio & Headphones,ApexTech,520.42,713.99,150
+PRD-0306,Kinetix Standing Desk Model-202,Furniture,Standing Desks,Kinetix,460.37,735.58,20
+PRD-0307,NordicCraft Standing Desk Model-186,Furniture,Standing Desks,NordicCraft,523.6,762.88,150
+PRD-0308,OptimaPrint Storage & Organization Model-310,Office Supplies,Storage & Organization,OptimaPrint,38.84,61.03,50
+PRD-0309,Novacore Laptops & Desktop Model-753,Technology,Laptops & Desktops,Novacore,487.82,632.18,75
+PRD-0310,AeroWeave Backpacks & Laptop Bag Model-530,Apparel & Gear,Backpacks & Laptop Bags,AeroWeave,31.5,51.6,100
+PRD-0311,  OptimaPrint Desk Accessorie Model-320  ,Office Supplies,Desk Accessories,OptimaPrint,5.18,7.85,50
+PRD-0312,"SafeKeep Pens, Inks & Marker Model-184",Office Supplies,"Pens, Inks & Markers",SafeKeep,35.57,59.31,75
+PRD-0313,AeroSonic Smartphones & Accessorie Model-649,Technology,Smartphones & Accessories,AeroSonic,877.65,1355.17,35
+PRD-0314,"OptimaPrint Pens, Inks & Marker Model-159",Office Supplies,"Pens, Inks & Markers",OptimaPrint,17.06,28.5,35
+PRD-0315,  QuantumByte Laptops & Desktop Model-222  ,Technology,Laptops & Desktops,,644.46,916.0,35
+PRD-0316,Kinetix Office Chair Model-270,Furniture,Office Chairs,Kinetix,357.92,575.96,50
+PRD-0317,ApexTech Smartphones & Accessorie Model-165,Technology,Smartphones & Accessories,ApexTech,341.54,484.56,100
+PRD-0318,NordicCraft Conference Table Model-476,Furniture,Conference Tables,NordicCraft,78.54,130.98,35
+PRD-0319,  Novacore Smartphones & Accessorie Model-350  ,Technology,Smartphones & Accessories,Novacore,712.81,941.33,20
+PRD-0320,UrbanShield Corporate Apparel Model-771,Apparel & Gear,Corporate Apparel,UrbanShield,84.11,145.53,150
+PRD-0321,ApexTech Printers & Networking Model-153,Technology,Printers & Networking,ApexTech,557.96,684.87,150
+PRD-0322,ZenithLogix Smartphones & Accessorie Model-435,Technology,Smartphones & Accessories,ZenithLogix,827.42,1239.4,50
+PRD-0323,AccuBinder Desk Accessorie Model-705,Office Supplies,Desk Accessories,AccuBinder,34.45,53.6,50
+PRD-0324,SteelForm Conference Table Model-338,Furniture,Conference Tables,SteelForm,136.09,-229.24,20
+PRD-0325,ErgoComfort Office Chair Model-844,Furniture,Office Chairs,ErgoComfort,504.15,759.52,150
+PRD-0326,Novacore Laptops & Desktop Model-965,Technology,Laptops & Desktops,Novacore,686.16,886.1,35
+PRD-0327,AeroSonic Smartphones & Accessorie Model-176,Technology,Smartphones & Accessories,AeroSonic,122.45,165.39,75
+PRD-0328,QuantumByte Printers & Networking Model-817,Technology,Printers & Networking,QuantumByte,813.59,1149.59,75
+PRD-0329,Novacore Monitors & Display Model-208,Technology,Monitors & Displays,Novacore,748.64,1014.02,35
+PRD-0330,EverWrite Desk Accessorie Model-192,Office Supplies,Desk Accessories,EverWrite,22.8,36.63,20
+PRD-0331,Novacore Laptops & Desktop Model-828,Technology,Laptops & Desktops,Novacore,799.87,1076.14,20
+PRD-0332,Novacore Printers & Networking Model-669,Technology,Printers & Networking,Novacore,63.44,82.03,75
+PRD-0333,ApexTech Audio & Headphone Model-233,Technology,Audio & Headphones,ApexTech,45.94,71.71,35
+PRD-0334,AeroSonic Smartphones & Accessorie Model-122,Technology,Smartphones & Accessories,AeroSonic,571.3,874.67,20
+PRD-0335,QuantumByte Smartphones & Accessorie Model-272,Technology,Smartphones & Accessories,QuantumByte,147.11,226.07,20
+PRD-0336,ModuDesk Standing Desk Model-381,Furniture,Standing Desks,ModuDesk,149.55,216.76,35
+PRD-0337,Hyperion Monitors & Display Model-590,Technology,Monitors & Displays,Hyperion,305.02,401.03,100
+PRD-0338,  ApexGear Backpacks & Laptop Bag Model-913  ,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,46.14,76.99,100
+PRD-0339,EcoPaper Desk Accessorie Model-497,office supplies,Desk Accessories,EcoPaper,18.43,30.04,50
+PRD-0340,AccuBinder Desk Accessorie Model-466,Office Supplies,Desk Accessories,AccuBinder,6.87,11.87,100
+PRD-0341,"EverWrite Pens, Inks & Marker Model-157",Office Supplies,"Pens, Inks & Markers",EverWrite,15.29,26.88,150
+PRD-0342,NordicCraft Standing Desk Model-280,Furniture,Standing Desks,NordicCraft,610.8,994.42,35
+PRD-0343,OptimaPrint Paper & Stationery Model-677,Office Supplies,Paper & Stationery,OptimaPrint,32.99,52.81,100
+PRD-0344,Kinetix Bookcases & Storage Model-157,Furniture,Bookcases & Storage,Kinetix,231.98,-337.02,20
+PRD-0345,ApexGear Backpacks & Laptop Bag Model-281,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,40.18,59.07,150
+PRD-0346,EverWrite Paper & Stationery Model-174,Office Supplies,Paper & Stationery,EverWrite,35.86,61.49,50
+PRD-0347,QuantumByte Printers & Networking Model-910,Technology,Printers & Networking,QuantumByte,159.85,197.61,75
+PRD-0348,Kinetix Conference Table Model-934,Furniture,Conference Tables,Kinetix,521.13,792.82,100
+PRD-0349,OptimaPrint Storage & Organization Model-971,Office Supplies,Storage & Organization,OptimaPrint,42.93,70.33,75
+PRD-0350,ApexGear Backpacks & Laptop Bag Model-244,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,42.61,66.9,75
+PRD-0351,"OptimaPrint Pens, Inks & Marker Model-443",Office Supplies,"Pens, Inks & Markers",OptimaPrint,37.78,65.14,150
+PRD-0352,ApexTech Printers & Networking Model-850,Technology,Printers & Networking,ApexTech,694.18,840.7,75
+PRD-0353,Kinetix Office Chair Model-766,Furniture,Office Chairs,Kinetix,272.09,438.24,100
+PRD-0354,QuantumByte Laptops & Desktop Model-175,Technology,Laptops & Desktops,QuantumByte,53.37,70.99,20
+PRD-0355,  UrbanShield Backpacks & Laptop Bag Model-821  ,Apparel & Gear,Backpacks & Laptop Bags,UrbanShield,57.24,95.4,75
+PRD-0356,ApexTech Audio & Headphone Model-519,Technology,Audio & Headphones,ApexTech,127.65,180.92,35
+PRD-0357,QuantumByte Printers & Networking Model-662,Technology,Printers & Networking,QuantumByte,252.36,305.71,100
+PRD-0358,Hyperion Printers & Networking Model-126,Technology,Printers & Networking,Hyperion,606.96,795.41,20
+PRD-0359,QuantumByte Smartphones & Accessorie Model-371,Technology,Smartphones & Accessories,QuantumByte,753.16,1075.75,150
+PRD-0360,SteelForm Office Chair Model-369,Furniture,Office Chairs,SteelForm,314.69,465.92,75
+PRD-0361,"OptimaPrint Pens, Inks & Marker Model-523",Office Supplies,"Pens, Inks & Markers",OptimaPrint,7.97,13.14,100
+PRD-0362,ApexGear Corporate Apparel Model-686,Apparel & Gear,Corporate Apparel,ApexGear,67.33,110.63,75
+PRD-0363,OptimaPrint Storage & Organization Model-793,Office Supplies,Storage & Organization,OptimaPrint,24.84,40.42,100
+PRD-0364,Novacore Audio & Headphone Model-180,Technology,Audio & Headphones,Novacore,774.74,1083.88,75
+PRD-0365,ApexGear Corporate Apparel Model-189,Apparel & Gear,Corporate Apparel,ApexGear,47.24,81.7,20
+PRD-0366,ErgoComfort Bookcases & Storage Model-900,Furniture,Bookcases & Storage,ErgoComfort,520.86,772.59,100
+PRD-0367,OptimaPrint Desk Accessorie Model-904,Office Supplies,Desk Accessories,OptimaPrint,41.96,68.37,20
+PRD-0368,ModuDesk Standing Desk Model-382,Furniture,Standing Desks,ModuDesk,391.07,590.05,35
+PRD-0369,NordicCraft Standing Desk Model-375,furniture,Standing Desks,NordicCraft,462.76,653.11,75
+PRD-0370,ZenithLogix Printers & Networking Model-237,Technology,Printers & Networking,ZenithLogix,820.28,1113.54,35
+PRD-0371,EcoPaper Storage & Organization Model-316,Office Supplies,Storage & Organization,EcoPaper,29.0,41.78,75
+PRD-0372,ErgoComfort Office Chair Model-826,Furniture,Office Chairs,ErgoComfort,356.74,519.61,50
+PRD-0373,  Novacore Laptops & Desktop Model-355  ,Technology,Laptops & Desktops,Novacore,211.38,308.95,20
+PRD-0374,  ModuDesk Office Chair Model-797  ,Furniture,Office Chairs,ModuDesk,350.6,549.09,20
+PRD-0375,TrekLine Corporate Apparel Model-957,Apparel & Gear,Corporate Apparel,TrekLine,88.36,141.42,35
+PRD-0376,ErgoComfort Standing Desk Model-977,Furniture,Standing Desks,ErgoComfort,143.56,219.88,35
+PRD-0377,ErgoComfort Conference Table Model-109,Furniture,Conference Tables,ErgoComfort,568.1,961.48,150
+PRD-0378,QuantumByte Monitors & Display Model-826,Technology,Monitors & Displays,QuantumByte,591.63,850.11,150
+PRD-0379,Novacore Printers & Networking Model-506,technology,Printers & Networking,Novacore,462.03,626.4,100
+PRD-0380,AeroWeave Corporate Apparel Model-405,Apparel & Gear,Corporate Apparel,AeroWeave,85.18,141.11,50
+PRD-0381,NordicCraft Office Chair Model-405,Furniture,Office Chairs,NordicCraft,202.99,321.45,150
+PRD-0382,  ApexGear Corporate Apparel Model-838  ,Apparel & Gear,Corporate Apparel,ApexGear,65.51,104.39,35
+PRD-0383,ModuDesk Standing Desk Model-935,Furniture,Standing Desks,ModuDesk,490.72,752.81,100
+PRD-0384,EcoPaper Desk Accessorie Model-407,Office Supplies,Desk Accessories,EcoPaper,41.21,68.18,100
+PRD-0385,ZenithLogix Smartphones & Accessorie Model-881,Technology,Smartphones & Accessories,ZenithLogix,152.07,209.78,100
+PRD-0386,QuantumByte Monitors & Display Model-907,Technology,Monitors & Displays,QuantumByte,239.35,339.98,75
+PRD-0387,ZenithLogix Smartphones & Accessorie Model-735,Technology,Smartphones & Accessories,ZenithLogix,84.11,123.3,100
+PRD-0388,Kinetix Standing Desk Model-240,Furniture,Standing Desks,Kinetix,225.51,318.52,35
+PRD-0389,SteelForm Bookcases & Storage Model-599,Furniture,Bookcases & Storage,SteelForm,236.41,355.7,20
+PRD-0390,NordicCraft Bookcases & Storage Model-882,Furniture,Bookcases & Storage,NordicCraft,171.68,260.6,100
+PRD-0391,  ModuDesk Standing Desk Model-104  ,Furniture,Standing Desks,ModuDesk,289.05,-468.85,75
+PRD-0392,Kinetix Office Chair Model-851,Furniture,Office Chairs,Kinetix,160.3,252.58,150
+PRD-0393,Kinetix Standing Desk Model-405,Furniture,Standing Desks,Kinetix,401.15,577.02,20
+PRD-0394,SteelForm Standing Desk Model-868,Furniture,Standing Desks,SteelForm,252.35,405.61,50
+PRD-0395,Novacore Monitors & Display Model-122,Technology,Monitors & Displays,Novacore,700.36,875.57,150
+PRD-0396,  ZenithLogix Laptops & Desktop Model-738  ,Technology,Laptops & Desktops,ZenithLogix,837.04,1112.29,100
+PRD-0397,ApexTech Laptops & Desktop Model-226,Technology,Laptops & Desktops,ApexTech,666.12,909.83,75
+PRD-0398,"OptimaPrint Pens, Inks & Marker Model-632",Office Supplies,"Pens, Inks & Markers",OptimaPrint,16.7,28.76,150
+PRD-0399,AeroSonic Smartphones & Accessorie Model-903,Technology,Smartphones & Accessories,AeroSonic,692.67,933.08,20
+PRD-0400,SteelForm Conference Table Model-140,Furniture,Conference Tables,SteelForm,261.54,409.11,35
+PRD-0401,ApexTech Monitors & Display Model-955,Technology,Monitors & Displays,ApexTech,46.67,57.89,20
+PRD-0402,Hyperion Smartphones & Accessorie Model-336,Technology,Smartphones & Accessories,Hyperion,697.07,1065.19,150
+PRD-0403,VanguardPro Corporate Apparel Model-920,Apparel & Gear,Corporate Apparel,VanguardPro,124.27,213.25,50
+PRD-0404,UrbanShield Backpacks & Laptop Bag Model-274,Apparel & Gear,Backpacks & Laptop Bags,UrbanShield,16.21,23.86,150
+PRD-0405,OptimaPrint Storage & Organization Model-510,Office Supplies,Storage & Organization,OptimaPrint,19.59,29.36,20
+PRD-0406,ModuDesk Bookcases & Storage Model-235,Furniture,Bookcases & Storage,ModuDesk,437.55,666.52,20
+PRD-0407,Kinetix Standing Desk Model-285,Furniture,Standing Desks,Kinetix,337.02,515.93,75
+PRD-0408,  VanguardPro Backpacks & Laptop Bag Model-551  ,Apparel & Gear,Backpacks & Laptop Bags,VanguardPro,75.38,117.01,75
+PRD-0409,"SafeKeep Pens, Inks & Marker Model-329",Office Supplies,"Pens, Inks & Markers",SafeKeep,35.58,60.58,100
+PRD-0410,SafeKeep Storage & Organization Model-593,Office Supplies,Storage & Organization,SafeKeep,8.36,13.14,35
+PRD-0411,Kinetix Conference Table Model-617,Furniture,Conference Tables,Kinetix,78.01,126.22,35
+PRD-0412,NordicCraft Bookcases & Storage Model-619,Furniture,Bookcases & Storage,NordicCraft,190.74,298.15,20
+PRD-0413,ModuDesk Bookcases & Storage Model-557,Furniture,Bookcases & Storage,ModuDesk,529.76,764.48,75
+PRD-0414,ModuDesk Standing Desk Model-910,Furniture,Standing Desks,ModuDesk,66.68,101.77,20
+PRD-0415,Hyperion Monitors & Display Model-945,Technology,Monitors & Displays,Hyperion,649.4,934.21,50
+PRD-0416,SafeKeep Paper & Stationery Model-563,Office Supplies,Paper & Stationery,SafeKeep,23.66,39.54,150
+PRD-0417,AeroWeave Corporate Apparel Model-146,Apparel & Gear,Corporate Apparel,AeroWeave,83.46,134.04,20
+PRD-0418,ErgoComfort Standing Desk Model-972,Furniture,Standing Desks,ErgoComfort,198.85,287.35,20
+PRD-0419,ZenithLogix Smartphones & Accessorie Model-702,Technology,Smartphones & Accessories,ZenithLogix,77.55,113.66,150
+PRD-0420,SteelForm Conference Table Model-149,Furniture,Conference Tables,SteelForm,628.13,923.98,150
+PRD-0421,EverWrite Desk Accessorie Model-206,Office Supplies,Desk Accessories,EverWrite,32.52,50.08,35
+PRD-0422,ModuDesk Standing Desk Model-380,Furniture,Standing Desks,ModuDesk,637.6,1026.96,35
+PRD-0423,ZenithLogix Audio & Headphone Model-406,Technology,Audio & Headphones,ZenithLogix,586.31,922.78,100
+PRD-0424,SteelForm Conference Table Model-803,Furniture,Conference Tables,SteelForm,166.54,268.72,50
+PRD-0425,AeroSonic Audio & Headphone Model-218,Technology,Audio & Headphones,AeroSonic,531.38,805.83,150
+PRD-0426,EcoPaper Storage & Organization Model-392,Office Supplies,Storage & Organization,,31.81,51.71,100
+PRD-0427,SteelForm Standing Desk Model-868,Furniture,Standing Desks,SteelForm,77.1,108.94,50
+PRD-0428,Hyperion Laptops & Desktop Model-133,Technology,Laptops & Desktops,Hyperion,752.69,991.23,100
+PRD-0429,SteelForm Conference Table Model-623,Furniture,Conference Tables,SteelForm,494.16,790.21,35
+PRD-0430,TrekLine Backpacks & Laptop Bag Model-420,Apparel & Gear,Backpacks & Laptop Bags,TrekLine,63.44,105.31,150
+PRD-0431,TrekLine Corporate Apparel Model-826,Apparel & Gear,Corporate Apparel,TrekLine,118.75,205.39,150
+PRD-0432,EverWrite Desk Accessorie Model-176,Office Supplies,Desk Accessories,EverWrite,16.41,25.28,150
+PRD-0433,NordicCraft Standing Desk Model-966,Furniture,Standing Desks,NordicCraft,381.74,545.86,100
+PRD-0434,QuantumByte Audio & Headphone Model-730,Technology,Audio & Headphones,QuantumByte,581.15,899.59,150
+PRD-0435,Hyperion Smartphones & Accessorie Model-633,Technology,Smartphones & Accessories,Hyperion,325.84,446.59,35
+PRD-0436,QuantumByte Smartphones & Accessorie Model-439,Technology,Smartphones & Accessories,QuantumByte,237.4,325.02,50
+PRD-0437,ErgoComfort Conference Table Model-757,Furniture,Conference Tables,ErgoComfort,114.41,177.29,35
+PRD-0438,ModuDesk Office Chair Model-362,Furniture,Office Chairs,ModuDesk,599.14,981.0,75
+PRD-0439,Kinetix Office Chair Model-403,Furniture,Office Chairs,Kinetix,530.7,807.98,20
+PRD-0440,AeroSonic Audio & Headphone Model-786,Technology,Audio & Headphones,AeroSonic,522.88,791.74,35
+PRD-0441,AeroSonic Monitors & Display Model-893,Technology,Monitors & Displays,AeroSonic,793.31,1128.16,150
+PRD-0442,ZenithLogix Laptops & Desktop Model-155,Technology,Laptops & Desktops,ZenithLogix,690.93,883.5,20
+PRD-0443,AeroWeave Backpacks & Laptop Bag Model-543,Apparel & Gear,Backpacks & Laptop Bags,AeroWeave,65.95,-101.81,75
+PRD-0444,SafeKeep Storage & Organization Model-817,Office Supplies,Storage & Organization,SafeKeep,7.06,11.24,20
+PRD-0445,"AccuBinder Pens, Inks & Marker Model-490",Office Supplies,"Pens, Inks & Markers",AccuBinder,29.07,47.52,75
+PRD-0446,Hyperion Audio & Headphone Model-402,Technology,Audio & Headphones,Hyperion,392.76,610.12,100
+PRD-0447,AccuBinder Desk Accessorie Model-244,office supplies,Desk Accessories,AccuBinder,43.27,65.02,100
+PRD-0448,QuantumByte Smartphones & Accessorie Model-452,Technology,Smartphones & Accessories,QuantumByte,227.2,338.65,150
+PRD-0449,Novacore Audio & Headphone Model-285,Technology,Audio & Headphones,Novacore,599.45,856.09,20
+PRD-0450,ModuDesk Conference Table Model-168,Furniture,Conference Tables,ModuDesk,435.03,646.81,150
+PRD-0451,SteelForm Office Chair Model-734,Furniture,Office Chairs,SteelForm,451.13,664.94,50
+PRD-0452,"AccuBinder Pens, Inks & Marker Model-473",Office Supplies,"Pens, Inks & Markers",AccuBinder,32.59,52.31,100
+PRD-0453,EverWrite Desk Accessorie Model-960,Office Supplies,Desk Accessories,EverWrite,33.34,54.92,50
+PRD-0454,NordicCraft Bookcases & Storage Model-279,Furniture,Bookcases & Storage,NordicCraft,513.73,745.94,20
+PRD-0455,ApexGear Backpacks & Laptop Bag Model-178,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,39.55,63.62,150
+PRD-0456,ApexGear Corporate Apparel Model-137,Apparel & Gear,Corporate Apparel,ApexGear,87.36,148.24,35
+PRD-0457,EverWrite Desk Accessorie Model-850,Office Supplies,Desk Accessories,EverWrite,19.32,29.97,100
+PRD-0458,Kinetix Office Chair Model-800,Furniture,Office Chairs,Kinetix,51.41,75.83,100
+PRD-0459,EverWrite Paper & Stationery Model-141,Office Supplies,Paper & Stationery,EverWrite,34.3,55.95,50
+PRD-0460,Hyperion Laptops & Desktop Model-497,Technology,Laptops & Desktops,Hyperion,224.2,331.54,50
+PRD-0461,ErgoComfort Office Chair Model-954,Furniture,Office Chairs,ErgoComfort,470.76,724.93,50
+PRD-0462,NordicCraft Standing Desk Model-629,Furniture,Standing Desks,NordicCraft,400.55,643.52,20
+PRD-0463,AeroWeave Corporate Apparel Model-106,Apparel & Gear,Corporate Apparel,AeroWeave,75.86,123.72,100
+PRD-0464,"AccuBinder Pens, Inks & Marker Model-716",Office Supplies,"Pens, Inks & Markers",AccuBinder,13.07,21.08,50
+PRD-0465,OptimaPrint Storage & Organization Model-704,Office Supplies,Storage & Organization,,24.0,36.72,35
+PRD-0466,SafeKeep Paper & Stationery Model-686,Office Supplies,Paper & Stationery,SafeKeep,11.03,18.36,20
+PRD-0467,Kinetix Standing Desk Model-845,Furniture,Standing Desks,Kinetix,631.39,976.54,150
+PRD-0468,ModuDesk Bookcases & Storage Model-246,Furniture,Bookcases & Storage,ModuDesk,148.19,226.88,100
+PRD-0469,Novacore Printers & Networking Model-710,Technology,Printers & Networking,Novacore,697.63,892.14,75
+PRD-0470,AeroSonic Monitors & Display Model-946,Technology,Monitors & Displays,AeroSonic,821.53,1097.57,75
+PRD-0471,AeroSonic Laptops & Desktop Model-775,Technology,Laptops & Desktops,AeroSonic,495.55,642.74,75
+PRD-0472,EcoPaper Desk Accessorie Model-814,Office Supplies,Desk Accessories,EcoPaper,25.64,40.64,20
+PRD-0473,NordicCraft Standing Desk Model-689,Furniture,Standing Desks,NordicCraft,401.37,630.36,150
+PRD-0474,UrbanShield Corporate Apparel Model-363,Apparel & Gear,Corporate Apparel,UrbanShield,50.41,86.79,75
+PRD-0475,AeroSonic Smartphones & Accessorie Model-923,Technology,Smartphones & Accessories,AeroSonic,41.58,61.15,150
+PRD-0476,QuantumByte Printers & Networking Model-726,Technology,Printers & Networking,QuantumByte,817.3,1060.38,50
+PRD-0477,SafeKeep Desk Accessorie Model-595,Office Supplies,Desk Accessories,SafeKeep,24.04,38.11,100
+PRD-0478,EverWrite Storage & Organization Model-335,Office Supplies,Storage & Organization,EverWrite,39.13,61.5,150
+PRD-0479,NordicCraft Standing Desk Model-823,Furniture,Standing Desks,NordicCraft,529.52,816.11,150
+PRD-0480,VanguardPro Corporate Apparel Model-165,Apparel & Gear,Corporate Apparel,VanguardPro,73.96,122.63,20
+PRD-0481,TrekLine Backpacks & Laptop Bag Model-711,Apparel & Gear,Backpacks & Laptop Bags,TrekLine,91.75,143.11,150
+PRD-0482,Novacore Laptops & Desktop Model-392,Technology,Laptops & Desktops,Novacore,813.27,1206.95,100
+PRD-0483,EverWrite Paper & Stationery Model-100,Office Supplies,Paper & Stationery,EverWrite,31.8,50.97,150
+PRD-0484,"EcoPaper Pens, Inks & Marker Model-854",Office Supplies,"Pens, Inks & Markers",EcoPaper,20.92,33.81,20
+PRD-0485,Kinetix Conference Table Model-331,Furniture,Conference Tables,Kinetix,255.6,432.36,50
+PRD-0486,Novacore Printers & Networking Model-615,Technology,Printers & Networking,Novacore,407.53,499.02,20
+PRD-0487,ApexGear Backpacks & Laptop Bag Model-553,Apparel & Gear,Backpacks & Laptop Bags,ApexGear,116.64,183.38,150
+PRD-0488,EcoPaper Desk Accessorie Model-593,Office Supplies,Desk Accessories,EcoPaper,32.1,54.77,20
+PRD-0489,"EverWrite Pens, Inks & Marker Model-628",Office Supplies,"Pens, Inks & Markers",EverWrite,36.91,61.45,50
+PRD-0490,NordicCraft Standing Desk Model-421,Furniture,Standing Desks,NordicCraft,91.0,146.89,75
+PRD-0491,"EverWrite Pens, Inks & Marker Model-347",Office Supplies,"Pens, Inks & Markers",EverWrite,24.71,39.93,150
+PRD-0492,AccuBinder Paper & Stationery Model-792,Office Supplies,Paper & Stationery,,10.82,16.71,20
+PRD-0493,ZenithLogix Laptops & Desktop Model-989,Technology,Laptops & Desktops,ZenithLogix,374.64,502.97,100
+PRD-0494,SteelForm Standing Desk Model-918,Furniture,Standing Desks,SteelForm,498.85,713.1,100
+PRD-0495,VanguardPro Corporate Apparel Model-571,apparel & gear,Corporate Apparel,VanguardPro,72.15,111.67,100
+PRD-0496,QuantumByte Smartphones & Accessorie Model-661,Technology,Smartphones & Accessories,QuantumByte,365.87,555.47,35
+PRD-0497,ZenithLogix Audio & Headphone Model-473,Technology,Audio & Headphones,ZenithLogix,422.91,620.15,50
+PRD-0498,EverWrite Paper & Stationery Model-668,Office Supplies,Paper & Stationery,EverWrite,37.47,63.17,35
+PRD-0499,ZenithLogix Audio & Headphone Model-237,Technology,Audio & Headphones,ZenithLogix,772.19,1089.27,75
+PRD-0500,EcoPaper Desk Accessorie Model-148,Office Supplies,Desk Accessories,EcoPaper,16.65,27.13,100

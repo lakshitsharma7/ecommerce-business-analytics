@@ -1,0 +1,181 @@
+/* ==============================================================================
+   DAX MEASURES REFERENCE LIBRARY
+   PROJECT: E-Commerce Sales, Customer & Business Performance Analytics
+   CENTRALIZED TABLE: _Measures
+============================================================================== */
+
+-- ==============================================================================
+-- 1. BASE FINANCIAL & VOLUME MEASURES
+-- ==============================================================================
+
+[Total Orders] = 
+DISTINCTCOUNT(FactOrders[order_id])
+
+[Total Quantity Sold] = 
+SUM(FactOrderDetails[quantity])
+
+[Gross Sales] = 
+SUM(FactOrderDetails[gross_sales])
+
+[Total Discounts] = 
+SUM(FactOrderDetails[discount_amount])
+
+[Net Sales] = 
+SUM(FactOrderDetails[net_sales])
+
+[Total COGS] = 
+SUM(FactOrderDetails[total_cost])
+
+[Gross Profit] = 
+[Net Sales] - [Total COGS]
+
+[Gross Margin %] = 
+DIVIDE([Gross Profit], [Net Sales], 0)
+
+[Average Order Value (AOV)] = 
+DIVIDE([Net Sales], [Total Orders], 0)
+
+[Average Selling Price (ASP)] = 
+DIVIDE([Net Sales], [Total Quantity Sold], 0)
+
+[Average Discount Rate %] = 
+DIVIDE([Total Discounts], [Gross Sales], 0)
+
+
+-- ==============================================================================
+-- 2. RETURNS & OPERATIONAL METRICS
+-- ==============================================================================
+
+[Total Units Returned] = 
+SUM(FactReturns[return_quantity])
+
+[Total Refund Amount] = 
+SUM(FactReturns[refund_amount])
+
+[Return Rate %] = 
+DIVIDE([Total Units Returned], [Total Quantity Sold], 0)
+
+[Refund Loss %] = 
+DIVIDE([Total Refund Amount], [Net Sales], 0)
+
+[Net Operating Profit] = 
+[Gross Profit] - [Total Refund Amount]
+
+[Net Operating Margin %] = 
+DIVIDE([Net Operating Profit], [Net Sales], 0)
+
+[Cancelled Orders] = 
+CALCULATE(
+    [Total Orders],
+    FactOrders[order_status] = "Cancelled"
+)
+
+[Cancellation Rate %] = 
+DIVIDE([Cancelled Orders], [Total Orders], 0)
+
+
+-- ==============================================================================
+-- 3. TARGETS & VARIANCE MEASURES
+-- ==============================================================================
+
+[Sales Target] = 
+SUM(FactSalesTargets[sales_target])
+
+[Sales Target Variance] = 
+[Net Sales] - [Sales Target]
+
+[Sales Achievement %] = 
+DIVIDE([Net Sales], [Sales Target], 0)
+
+[Profit Target] = 
+SUM(FactSalesTargets[profit_target])
+
+[Profit Target Variance] = 
+[Net Operating Profit] - [Profit Target]
+
+[Profit Achievement %] = 
+DIVIDE([Net Operating Profit], [Profit Target], 0)
+
+
+-- ==============================================================================
+-- 4. TIME INTELLIGENCE & GROWTH MEASURES
+-- ==============================================================================
+
+[Net Sales Prior Year (PY)] = 
+CALCULATE(
+    [Net Sales],
+    SAMEPERIODLASTYEAR(DimDate[full_date])
+)
+
+[YoY Sales Growth $] = 
+[Net Sales] - [Net Sales Prior Year (PY)]
+
+[YoY Sales Growth %] = 
+DIVIDE([YoY Sales Growth $], [Net Sales Prior Year (PY)], 0)
+
+[Net Sales Prior Month (PM)] = 
+CALCULATE(
+    [Net Sales],
+    DATEADD(DimDate[full_date], -1, MONTH)
+)
+
+[MoM Sales Growth %] = 
+DIVIDE([Net Sales] - [Net Sales Prior Month (PM)], [Net Sales Prior Month (PM)], 0)
+
+[Running Total Sales YTD] = 
+TOTALYTD([Net Sales], DimDate[full_date])
+
+[Running Total Profit YTD] = 
+TOTALYTD([Net Operating Profit], DimDate[full_date])
+
+
+-- ==============================================================================
+-- 5. CUSTOMER DYNAMICS & RETENTION MEASURES
+-- ==============================================================================
+
+[Total Active Customers] = 
+DISTINCTCOUNT(FactOrders[customer_id])
+
+[New Customers] = 
+CALCULATE(
+    DISTINCTCOUNT(FactOrders[customer_id]),
+    FILTER(
+        FactOrders,
+        FactOrders[order_date] = CALCULATE(MIN(FactOrders[order_date]), ALLEXCEPT(FactOrders, FactOrders[customer_id]))
+    )
+)
+
+[Repeat Customers] = 
+[Total Active Customers] - [New Customers]
+
+[Repeat Customer Rate %] = 
+DIVIDE([Repeat Customers], [Total Active Customers], 0)
+
+[Customer Lifetime Spend] = 
+DIVIDE([Net Sales], [Total Active Customers], 0)
+
+
+-- ==============================================================================
+-- 6. INVENTORY HEALTH & VELOCITY MEASURES
+-- ==============================================================================
+
+[Current Inventory Value] = 
+SUMX(
+    FactInventory,
+    FactInventory[closing_stock] * RELATED(DimProduct[cost_price])
+)
+
+[Total Inventory Units Sold] = 
+SUM(FactInventory[units_sold])
+
+[Inventory Turnover Ratio] = 
+DIVIDE([Total COGS], [Current Inventory Value], 0)
+
+[Days Sales in Inventory (DSI)] = 
+DIVIDE(365, [Inventory Turnover Ratio], 0)
+
+[Critical Stock Alert Count] = 
+CALCULATE(
+    DISTINCTCOUNT(FactInventory[product_id]),
+    FactInventory[closing_stock] <= RELATED(DimProduct[reorder_level])
+)

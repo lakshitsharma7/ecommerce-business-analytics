@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A local, database-backed dashboard prototype for ApexCart synthetic e-commerce analytics.">
+  <title>ApexCart | Business Analytics Prototype</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="ApexCart analytics home"><span class="brand-mark">A</span><span>APEXCART <b>ANALYTICS</b></span></a>
+    <div class="top-meta"><span class="source-badge">SYNTHETIC DATA · LIVE LOCAL QUERY</span><span id="date-range" class="date-range">Loading data…</span></div>
+  </header>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Dashboard pages">
+      <p class="nav-label">WORKSPACE</p>
+      <nav id="page-nav">
+        <button class="nav-item active" data-page="executive">01 <span>Executive Overview</span></button>
+        <button class="nav-item" data-page="sales">02 <span>Sales Performance</span></button>
+        <button class="nav-item" data-page="customers">03 <span>Customer Analytics</span></button>
+        <button class="nav-item" data-page="products">04 <span>Product Analytics</span></button>
+        <button class="nav-item" data-page="inventory">05 <span>Inventory &amp; Operations</span></button>
+        <button class="nav-item" data-page="returns">06 <span>Returns &amp; Profitability</span></button>
+      </nav>
+      <div class="sidebar-note"><span class="status-dot"></span>Database connected<br><small>SQLite · read-only queries</small></div>
+    </aside>
+    <main class="workspace">
+      <section class="page-head">
+        <div><p class="eyebrow">BUSINESS INTELLIGENCE · PROTOTYPE</p><h1 id="page-title">Executive Overview</h1></div>
+        <button id="reset-filters" class="reset-button" type="button">Reset filters</button>
+      </section>
+      <section class="filters" aria-label="Dashboard filters">
+        <label>Year<select id="filter-year" data-filter="year"><option value="">All years</option></select></label>
+        <label>Region<select id="filter-region" data-filter="region"><option value="">All regions</option></select></label>
+        <label>Category<select id="filter-category" data-filter="category"><option value="">All categories</option></select></label>
+        <label>Sales channel<select id="filter-channel" data-filter="channel"><option value="">All channels</option></select></label>
+        <label>Customer segment<select id="filter-segment" data-filter="segment"><option value="">All segments</option></select></label>
+      </section>
+      <section id="kpis" class="kpi-grid" aria-label="Key performance indicators"></section>
+      <section id="dashboard-content" class="dashboard-content" aria-live="polite"></section>
+      <footer><span>All values are calculated from the local SQLite warehouse.</span><span id="filter-note"></span></footer>
+    </main>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

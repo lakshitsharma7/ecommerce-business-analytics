@@ -1,0 +1,16 @@
+sub_category_id,sub_category_name,category_name
+SUB-TECH-01,Laptops & Desktops,Technology
+SUB-TECH-02,Smartphones & Accessories,Technology
+SUB-TECH-03,Audio & Headphones,Technology
+SUB-TECH-04,Monitors & Displays,Technology
+SUB-TECH-05,Printers & Networking,Technology
+SUB-FURN-01,Office Chairs,Furniture
+SUB-FURN-02,Standing Desks,Furniture
+SUB-FURN-03,Bookcases & Storage,Furniture
+SUB-FURN-04,Conference Tables,Furniture
+SUB-OFF-01,Paper & Stationery,Office Supplies
+SUB-OFF-02,"Pens, Inks & Markers",Office Supplies
+SUB-OFF-03,Storage & Organization,Office Supplies
+SUB-OFF-04,Desk Accessories,Office Supplies
+SUB-APP-01,Corporate Apparel,Apparel & Gear
+SUB-APP-02,Backpacks & Laptop Bags,Apparel & Gear

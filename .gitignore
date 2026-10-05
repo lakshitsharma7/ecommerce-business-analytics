@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and local configuration
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+credentials.json
+credentials.*
+secrets.*
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs, transient files, and build outputs
+*.log
+*.tmp
+*.bak
+*.build.db
+temp_extract/
+
+# Duplicate data bundle; CSVs and the reproducible SQLite warehouse are kept.
+/data/cleaned/Ecommerce_Dummy_Data_Complete.zip

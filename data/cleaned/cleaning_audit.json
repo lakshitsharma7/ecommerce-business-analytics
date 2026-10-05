@@ -1,0 +1,68 @@
+{
+  "sources": {
+    "raw_products_with_defects.csv": {
+      "raw_rows": 500,
+      "cleaned_rows": 500,
+      "rows_removed": 0,
+      "corrections": {
+        "product_name_whitespace_normalized": 28,
+        "negative_selling_price_sign_fixed": 10,
+        "category_capitalization_normalized": 17,
+        "brand_inferred_from_product_name": 7
+      },
+      "rows_rejected": 0
+    },
+    "raw_customers_with_defects.csv": {
+      "raw_rows": 8080,
+      "cleaned_rows": 8000,
+      "rows_removed": 80,
+      "rows_rejected": 0,
+      "age_median_used": 45,
+      "missing_ages_imputed": 253,
+      "corrections": {
+        "customer_name_normalized": 296,
+        "gender_code_normalized": 164,
+        "customer_segment_normalized": 281,
+        "missing_age_imputed_with_raw_median": 253
+      }
+    },
+    "raw_orders_with_defects.csv": {
+      "raw_rows": 52150,
+      "cleaned_rows": 51180,
+      "duplicate_rows_removed": 150,
+      "rows_rejected_for_missing_customer_key": 820,
+      "rows_removed_total": 970,
+      "dates_normalized": 2980,
+      "corrections": {
+        "order_status_case_normalized": 1507
+      }
+    },
+    "raw_order_details_with_defects.csv": {
+      "raw_rows": 106382,
+      "cleaned_rows": 104673,
+      "rows_removed_with_rejected_parent_orders": 1709,
+      "corrections": {
+        "text_percent_discounts_normalized": 3181,
+        "zero_gross_sales_recalculated": 560,
+        "negative_quantities_sign_fixed": 823
+      }
+    }
+  },
+  "generated_clean_sources": {
+    "fact_returns.csv": {
+      "source": "Generated as clean synthetic data; filtered to retained order lines.",
+      "source_file": "data/source/fact_returns_generated.csv",
+      "source_rows": 3024,
+      "cleaned_rows": 2983,
+      "rows_removed_with_rejected_parent_orders": 41
+    },
+    "fact_inventory.csv": {
+      "source": "Generated directly as clean synthetic data; no defect-injected raw counterpart.",
+      "cleaned_rows": 18000
+    },
+    "fact_sales_targets.csv": {
+      "source": "Generated directly as clean synthetic data; no defect-injected raw counterpart.",
+      "cleaned_rows": 576
+    }
+  }
+}
